@@ -1,4 +1,4 @@
-# How to contribute
+# How to Contribute
 
 Swiper loves to welcome your contributions. There are several ways to help out:
 
